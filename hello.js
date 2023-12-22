@@ -5,6 +5,7 @@ to the console (the panel on the right)
 */
 
 console.log("Hello World!");
+console.log("Hello World 2: Electric Boolagoo!");
 
 /*  
 Next, PLAY! 
